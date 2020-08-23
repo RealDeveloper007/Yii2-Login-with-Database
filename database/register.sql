@@ -37,7 +37,5 @@ CREATE TABLE `register` (
 
 INSERT INTO `register` (`id`, `username`, `auth_key`, `password_hash`, `password_reset_token`, `email`, `firstname`, `lastname`, `mobile`, `postcode`, `created_at`, `address`, `usertype_id`, `city_name`, `country_id`, `status`, `imageFile`, `permission`, `is_published`) VALUES
 (1,	'admin',	'$2y$13$YKJ5Z',	'$2y$13$YKJ5Z6FDAcgNvISjuNx4HeV5RuJ4rN9SWWIl6rYzQg/MQ9/rdXNfK',	'',	'admin@gmail.com',	'real',	'developer',	'8202829282',	'',	'2018-02-03 15:12:24',	'',	1,	'',	NULL,	1,	'avatar.png',	0,	0),
-(7,	'test007',	'jsksncknsksnsk',	'$2y$13$DRAQp4P/xeu6ipC7RAMnAuzQnU74XKvIMdaLxZuUz7PFjy4zROmS2',	'jsksncknsksnsk',	'test@gmail.com',	'first',	'last',	'729282',	'2019',	'2018-03-02 05:09:48',	'address',	2,	'ambala',	2,	1,	'26024270_1480490668738694_2791867699195523926_o.jpg',	2,	2),
-(11,	'diwakar009',	'jsksncknsksnsk',	'$2y$13$bClfc6SxWZFDB5GPLBIVL.umcSqa5jDrYbEKbOWblEDK1w6pymkhK',	'jsksncknsksnsk',	'd@gmail.com',	'diwakar',	'sharma',	'09034955197',	'2019',	'2018-03-02 07:18:43',	'Snowflakes Software pvt. ltd. Plot no 74, Sector 82,Mohali',	2,	'ambala',	2,	1,	'',	2,	2);
-
+(7,	'test007',	'jsksncknsksnsk',	'$2y$13$DRAQp4P/xeu6ipC7RAMnAuzQnU74XKvIMdaLxZuUz7PFjy4zROmS2',	'jsksncknsksnsk',	'test@gmail.com',	'first',	'last',	'729282',	'2019',	'2018-03-02 05:09:48',	'address',	2,	'ambala',	2,	1,	'26024270_1480490668738694_2791867699195523926_o.jpg',	2,	2);
 -- 2018-03-02 16:45:20
